@@ -1,6 +1,6 @@
 import { mergeSorting } from './index';
 
-describe('merge', () => {
+describe('mergeSorting', () => {
     test('Test 1: [1, 4, 7], [9, 6, 3, 0], [2, 5, 8]', () => {
         expect(mergeSorting([1, 4, 7], [9, 6, 3, 0], [2, 5, 8])).toEqual([0, 1, 2, 3, 4, 5, 6, 7, 8, 9]);
     });
