@@ -1,18 +1,18 @@
 # TypeScript Test Project
 
-## Setup โปรเจค
+## project setup
 
 ```bash
 npm install
 ```
 
-## รัน function
+## run function
 
 ```bash
 tsx index.ts
 ```
 
-## รัน test
+## run test
 
 ```bash
 npm run test
